@@ -1,0 +1,24 @@
+-Generate a new Angular Application
+	ng new my-app
+	
+-Go inside my-app folder and run below command 
+	ng serve
+	Now access http://localhost:4200/ to view the app
+	
+-Open app.component.ts and explain Component
+
+-Create a new Component CoursesComponent in file courses.component.ts, Explain file naming convention
+ Add the in the module
+ add the courses selector in app.component.html and show the new GUI
+ 
+-Generating Component using Angulat CLI
+	ng generate component course
+	
+-Interpolation using {{}}
+
+-Display a list of courses using *ngFor directive
+
+-Getting list of courses using a service
+		course.service.ts
+	-creating instance of service using new (tight coupling)
+	-show dependency injection 
